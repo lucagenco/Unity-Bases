@@ -1,0 +1,1 @@
+Voici un projet de test créé dans le but de vous familiariser avec les fondamentaux de la création d'un jeu vidéo. Vous pouvez télécharger ce projet et l'importer dans votre environnement Unity pour accéder au code et effectuer d'autres modifications.
